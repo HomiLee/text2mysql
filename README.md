@@ -20,5 +20,4 @@ mysql是专门需要处理大量数据的非计算机技术领域人员训练的
 ## 对话效果示例
 ![image](183f8500abc13a2d618ab0ffa5d9233.png)
 ![image](71c1bfe1f8a6530906aa641a70c5a06.png)
-![image](c797a66dab1a1b3e342c3b4a5c5fd63.png)
 ![image](f5fbc9453e843802ba49e0b5f042d95.png)
